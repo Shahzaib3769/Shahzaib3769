@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahzaib3769
 - 👀 I’m interested in C Programming
 - 🌱 I’m currently learning BS Computer Science ...
-- 💞️ I’m looking to collaborate on diversified and challenging C programs
+- 💞️ I’m looking to collaborate on diversified and challenging projects
 - 📫 email:Shahzaib3769@gmail.com
 
 <!---
