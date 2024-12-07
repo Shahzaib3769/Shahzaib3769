@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shahzaib3769
-- 👀 I’m interested in C Programming
+- 👀 I’m interested in C,C++, x86 Assembly, Arduino Programming
 - 🌱 I’m currently learning BS Computer Science ...
 - 💞️ I’m looking to collaborate on diversified and challenging projects
 - 📫 email:Shahzaib3769@gmail.com
